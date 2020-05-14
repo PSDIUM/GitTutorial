@@ -8,6 +8,9 @@ public class JackScript : MonoBehaviour
     void Start()
     {
         Debug.Log("Yeeeeeeh");
+        // This is the script for jack
+        float jack;
+        jack = 4;
     }
 
     // Update is called once per frame
